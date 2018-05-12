@@ -38,6 +38,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Ulysses_Prentiss_Hedrick
 description: Report of the New York Agricultural Experiment Station for the year 1907,
   v.3, pt. 2.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45978#The-Grapes-of-New-York
 gutenberg_issued: '2014-06-15'
 gutenberg_type: Text
 identifiers:
